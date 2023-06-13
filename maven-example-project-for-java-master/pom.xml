@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>contohprojectmaven</groupId>
   <artifactId>contohproject</artifactId>
-  <version>0.2.4</version>
+  <version>0.3.4</version>
 
 	
 <dependencies>
@@ -17,7 +17,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/nandaardian19/CICD12_1302194049</url>
+      <url>https://maven.pkg.github.com/nandaardian19/TubesMKPL_Deloyment_1302194049</url>
     </repository>
   </distributionManagement>
   
